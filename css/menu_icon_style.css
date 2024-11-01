@@ -1,0 +1,10 @@
+
+#adminmenu #toplevel_page_wpfib-menu div.wp-menu-image {
+	background: transparent url('../media/admin/wpfibMenuIconSprite.png') no-repeat scroll -1px -33px;
+}
+#adminmenu #toplevel_page_wpfib-menu:hover div.wp-menu-image,
+#adminmenu #toplevel_page_wpfib-menu.wp-has-current-submenu div.wp-menu-image,
+#adminmenu #toplevel_page_wpfib-menu.current div.wp-menu-image {
+	background: transparent url('../media/admin/wpfibMenuIconSprite.png') no-repeat scroll -1px -1px;
+}
+
